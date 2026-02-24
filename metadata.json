@@ -1,0 +1,7 @@
+{
+  "name": "Phil Fash AI Studio",
+  "description": "A comprehensive AI production studio for fashion brands. Generate catalogs, edit photos, create videos, and analyze trends using Gemini Pro, Flash, and Veo models.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
